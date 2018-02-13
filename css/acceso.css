@@ -1,0 +1,456 @@
+#fondo{
+	z-index:1;
+	width:101vw;
+	height:147vh;
+	position:fixed;
+	top:-1%;
+	left:-1%;
+}
+
+#headlogo{
+	z-index:2;
+	height:10vh;
+	position:absolute;
+	top:5%;
+	left:45%;
+	>box-shadow:0px 0px 30px 5px black inset;
+	>border-radius:50%;
+}
+
+#divacc{
+	border:4px solid white;
+	border-radius:30px;
+	height:33vh;
+	width:30vw;
+	position:absolute;
+	top:20vh;
+	left:32vw;
+	z-index:4;
+	background:linear-gradient(rgba(0,0,0,1)40%, rgba(255,0,0,0)80%);
+	box-shadow:0px 0px 100px 10px black inset;
+	color:white;
+}
+
+#pacc1{
+	position:relative;
+	top:2%;
+	left:35%;
+}
+
+#l1{
+	position:absolute;
+	left:15%;
+	top:30%;
+	font-family:verdana;
+	font-size:1vw;
+}
+
+#in1{
+	position:absolute;
+	left:50%;
+	top:37%;
+	border-radius:5px;
+	background:none;
+	color:white;
+	font-family:arial;
+	width:11vw;
+	height:2.5vh;
+}
+
+#l2{
+	position:absolute;
+	left:10%;
+	top:50%;
+	font-family:verdana;
+	font-size:1vw;
+}
+
+#in2{
+	position:absolute;
+	left:50%;
+	top:57%;
+	border-radius:5px;
+	background:none;
+	color:white;
+	font-family:arial;
+	width:11vw;
+	height:2.5vh;
+}
+
+#pcontrec{
+	position:absolute;
+	top:90%;
+	left:30%;
+	color:white;
+	text-decoration:underline;
+	font-family:verdana;
+	font-size:0.7vw;
+}
+
+#sub{
+	position:absolute;
+	width:20%;
+	height:12%;
+	top:75%;
+	left:40%;
+	color:white;
+	background:none;
+	border-radius:5px;
+	font-family:calibri;
+	font-size:1vw;
+	transition:.5s;
+}
+
+#sub:hover{
+	box-shadow:0px 0px 1px white;
+	transition:.5s;
+}
+
+#div02{
+	position:absolute;
+	top:55vh;
+	left:25vw;
+	width:45vw;
+	height:15vh;
+}
+
+#div03{
+	position:absolute;
+	top:0vh;
+	left:25vw;
+	width:45vw;
+	height:15vh;
+}
+
+#t1{
+	position:absolute;
+	top:5%;
+	left:33%;
+	font-size:1.5vw;
+	font-family:arial;
+	color:white;
+	text-shadow:0px 1px black;
+	z-index:1;
+}
+
+#t2{
+	position:absolute;
+	top:40%;
+	left:17%;
+	font-size:1.2vw;
+	font-family:arial;
+	color:white;
+	text-shadow:0px 1px black;
+	z-index:1;
+}
+
+#divbot1{
+	position:absolute;
+	top:75vh;
+	left:20vw;
+	height:24vh;
+	width:10vw;
+	>border:1px solid black;
+	z-index:2;
+}
+
+#divbot11{
+	position:absolute;
+	bottom:5vh;
+	left:20vw;
+	height:24vh;
+	width:10vw;
+	>border:1px solid black;
+	z-index:2;
+}
+
+#CDCimg{
+	width:80%;
+	z-index:2;
+	position:absolute;
+	top:0%;
+	right:10%;
+	>border:1px solid black;
+}
+
+#CDCp{
+	position:absolute;
+	top:60%;
+	left:-5%;
+	font-family:arial;
+	font-size:1vw;
+	color:white;
+	z-index:2;
+	>border:1px solid black;
+}
+
+#CDCp:hover{
+	border-bottom:solid 1px;
+}
+
+#divbot2{
+	position:absolute;
+	top:75vh;
+	left:42vw;
+	height:24vh;
+	width:10vw;
+	>border:1px solid black;
+	z-index:2;
+}
+
+#divbot21{
+	position:absolute;
+	bottom:5vh;
+	left:42vw;
+	height:24vh;
+	width:10vw;
+	>border:1px solid black;
+	z-index:2;
+}
+
+#Nimg{
+	width:80%;
+	z-index:2;
+	position:absolute;
+	top:0%;
+	left:10%;
+	>border:1px solid black;
+}
+
+#Np{
+	position:absolute;
+	top:60%;
+	left:-25%;
+	font-family:arial;
+	font-size:1vw;
+	color:white;
+	z-index:2;
+	>border:1px solid black;
+}
+
+#Np:hover{
+	border-bottom:solid 1px;
+}
+
+#divbot3{
+	position:absolute;
+	top:75vh;
+	left:65vw;
+	height:24vh;
+	width:10vw;
+	>border:1px solid black;
+	z-index:2;
+}
+
+#divbot31{
+	position:absolute;
+	bottom:5vh;
+	left:65vw;
+	height:24vh;
+	width:10vw;
+	>border:1px solid black;
+	z-index:2;
+}
+
+#Dimg{
+	width:78%;
+	z-index:2;
+	position:absolute;
+	top:0%;
+	left:10%;
+	>border:1px solid black;
+}
+
+#Dp{
+	position:absolute;
+	top:60%;
+	left:-25%;
+	font-family:arial;
+	font-size:1vw;
+	color:white;
+	z-index:2;
+	>border:1px solid black;
+}
+
+#Dp:hover{
+	border-bottom:solid 1px;
+}
+
+.a{
+	text-shadow:0px 1px black;
+}
+
+#sectdown{
+	position:absolute;
+	top:100vh;
+	left:0vw;
+	width:100%;
+	height:50vh;
+	background:linear-gradient(to right,rgb(148, 77, 255)0%, rgb(51, 51, 255)100%);
+	z-index:2;
+}
+
+#psect{
+	position:absolute;
+	top:10vh;
+	left:20%;
+	color:white;
+	font-family:circular;
+	font-size:1.5vw;
+}
+
+#pasect{
+	position:absolute;
+	top:30vh;
+	left:10%;
+	color:white;
+	font-family:verdana;
+	font-size:1vw;
+}
+
+#money{
+	position:absolute;
+	top:20vh;
+	right:10vw;
+	height:20vh;
+	width:20vh;
+	z-index:3;
+}
+
+#sect2{
+	position:absolute;
+	top:150vh;
+	left:0vw;
+	width:100%;
+	height:50vh;
+	background:linear-gradient(to right,rgb(251, 81, 81)0%, rgb(148, 77, 255)100%);
+	z-index:2;
+}
+
+#psect2{
+	position:absolute;
+	top:10vh;
+	right:20%;
+	color:white;
+	font-family:circular;
+	font-size:1.5vw;
+}
+
+#pasect2{
+	position:absolute;
+	top:30vh;
+	right:17%;
+	color:white;
+	font-family:verdana;
+	font-size:1vw;
+}
+
+#play{
+	position:absolute;
+	top:20vh;
+	left:10vw;
+	height:20vh;
+	width:20vh;
+	z-index:3;
+}
+
+#sect3{
+	position:absolute;
+	top:200vh;
+	left:0vw;
+	width:100%;
+	height:50vh;
+	background:linear-gradient(to right,rgb(232, 159, 48)0%, rgb(251, 81, 81)100%);
+	z-index:2;
+}
+
+#psect3{
+	position:absolute;
+	top:10vh;
+	left:20%;
+	color:white;
+	font-family:circular;
+	font-size:1.5vw;
+}
+
+#pasect3{
+	position:absolute;
+	top:30vh;
+	left:10%;
+	color:white;
+	font-family:verdana;
+	font-size:1vw;
+}
+
+#secu{
+	position:absolute;
+	top:20vh;
+	right:10vw;
+	height:20vh;
+	width:20vh;
+	z-index:3;
+}
+
+#sect4{
+	position:absolute;
+	top:250vh;
+	left:0vw;
+	width:100%;
+	height:50vh;
+	background:linear-gradient(to right, rgb(51, 51, 153)0%, rgb(25, 179, 148)100%);
+	z-index:2;
+}
+
+#psect4{
+	position:absolute;
+	top:10vh;
+	right:20%;
+	color:white;
+	font-family:circular;
+	font-size:1.5vw;
+}
+
+#pasect4{
+	position:absolute;
+	top:30vh;
+	right:10%;
+	color:white;
+	font-family:verdana;
+	font-size:1vw;
+}
+
+#muestras{
+	position:absolute;
+	top:20vh;
+	left:10vw;
+	height:20vh;
+	width:20vh;
+	z-index:3;
+}
+
+#signup{
+	position:absolute;
+	top:300vh;
+	left:0vw;
+	width:100%;
+	height:50vh;
+	background:linear-gradient(to right, rgb(117, 77, 179)0%, rgb(246, 85, 85)100%);
+	z-index:2;
+}
+
+#foother{
+	position:absolute;
+	top:350vh;
+	left:0vw;
+	width:100%;
+	height:10vh;
+	background-color:white;
+	z-index:2;
+}
+
+#pfoot{
+	position:absolute;
+	left:43%;
+	width:20%;
+	font-size:1vw;
+}
